@@ -1,0 +1,1 @@
+./sorting 10 10 > 10_10.txt; ./sorting 10 100 > 10_100.txt; ./sorting 10 1000 > 10_1000.txt; ./sorting 10 10000 > 10_10000.txt; ./sorting 100 10 > 100_10.txt; ./sorting 100 100 > 100_100.txt; ./sorting 100 1000 > 100_1000.txt; ./sorting 100 10000 > 100_10000.txt;
